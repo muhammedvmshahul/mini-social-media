@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "798180411457",
+    "project_id": "minimal-social-app-e265e",
+    "storage_bucket": "minimal-social-app-e265e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798180411457:android:ca413f94847f8a7ae61ec0",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAn6YXX3WZfe9PHp6F8qmcGn3agF-BLzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798180411457:android:a9bb3d6fd3527366e61ec0",
+        "android_client_info": {
+          "package_name": "com.example.minimal_socia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAn6YXX3WZfe9PHp6F8qmcGn3agF-BLzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798180411457:android:cee0ec1030883366e61ec0",
+        "android_client_info": {
+          "package_name": "com.example.minimal_social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAn6YXX3WZfe9PHp6F8qmcGn3agF-BLzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
